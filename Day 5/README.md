@@ -49,4 +49,4 @@ x$d24g*f9
 
 Va har safar parol yaratganingizda, belgilar, raqamlar va harflarning o'rni har xil bo'ladi.
 
-# Yechim
+# Link
