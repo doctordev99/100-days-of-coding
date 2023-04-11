@@ -9,3 +9,6 @@ https://replit.com/@UmidjonYuldashe/Day-7-Hangman-3-Start?v=1
 
 Bosqich 4
 https://replit.com/@UmidjonYuldashe/Day-7-Hangman-4-Start?v=1
+
+Bosqich 5
+https://replit.com/@UmidjonYuldashe/Day-7-Hangman-5-Start?v=1
