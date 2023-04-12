@@ -1,6 +1,6 @@
 ## Parol generatori
 
-#Ko'rsatmalar
+**Ko'rsatmalar**
 
 Dastur so'raydi:
 
@@ -49,4 +49,4 @@ x$d24g*f9
 
 Va har safar parol yaratganingizda, belgilar, raqamlar va harflarning o'rni har xil bo'ladi.
 
-# Link
+# [Link](https://replit.com/@UmidjonYuldashe?path=folder/100%20days%20of%20coding/Day%205)
