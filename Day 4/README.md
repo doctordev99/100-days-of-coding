@@ -7,3 +7,4 @@ The game is played where players deliver hand signals that will represent the el
 >Scissors win against paper.
 >Paper wins against rock.
 
+[link](https://replit.com/@UmidjonYuldashe?path=folder/100%20days%20of%20coding/Day%204)
