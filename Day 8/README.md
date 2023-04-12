@@ -10,3 +10,6 @@
 # Sezar shifri
 ## Bosqich 1
 > https://replit.com/@UmidjonYuldashe/sezar-shifri-1-start?v=1
+
+## Bosqich 2
+> https://replit.com/@UmidjonYuldashe/sezar-shifri-2-start?v=1
