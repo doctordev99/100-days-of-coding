@@ -1,3 +1,4 @@
+## Ko'rsatma
 Reeborg chiqishni topishi uchun if/elif/else iborasidan foydalanib dastur yozing. Buning siri shundaki, Reeborg labirintning o‘ng chekkasi bo‘ylab ergashishi, iloji bo‘lsa o‘ngga burilishi, o‘ngga burilmasa, to‘g‘ri oldinga borishi yoki oxirgi chora sifatida chapga burilishi kerak.
 
 **Nimani bilishingiz kerak?** 
